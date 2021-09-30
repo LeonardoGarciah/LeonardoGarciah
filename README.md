@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Leonardo!
 
-- 🌱 Estudando Java WEB
+- 🌱 Estudando NodeJS
 
 <div align="center">
   <a href="https://github.com/LeonardoGarciah">
