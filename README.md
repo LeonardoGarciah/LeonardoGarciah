@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Leonardo!
 
-- 🌱 Estudando Angular
+- 🌱 Estudando React e React Native
 
 <div align="center">
   <a href="https://github.com/LeonardoGarciah">
