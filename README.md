@@ -1,7 +1,6 @@
 
 ## Olá! Eu sou o Leonardo!
 
-- 🌱 Estudando Flutter
 - 💼 Trabalhando atualmente na Nexfar Tecnologia LTDA
 - 👨‍💻 Tecnologias: Flutter, React, React Native, Javascript, Typescript, NestJS
   <br/>
